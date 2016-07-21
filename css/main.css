@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: auto;
+    background-color: burlywood;
+    text-align: center;
+}
+header,
+h1 {
+    font-family: 'Lalezar', cursive;
+    padding-bottom: 0;
+    padding-top: 0;
+    font-size: 30px;
+}
